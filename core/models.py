@@ -1,3 +1,5 @@
+"""
+    Arquivo de modelos de dados
+"""
 from django.db import models
 
-# Create your models here.
